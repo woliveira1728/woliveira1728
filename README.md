@@ -59,28 +59,28 @@ Atualmente, foco no desenvolvimento de **aplicações performáticas, seguras e 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📄 Publicações Científicas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woliveira1728&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woliveira1728&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🔹 Tokenização de Árvores da Amazônia em Blockchain: Um Estudo de Caso
+> Um estudo sobre a **tokenização de árvores da Amazônia** usando **tecnologia blockchain** para rastreamento e preservação ambiental.
 
----
+- **Autores:** Robson R. Andrade; Masaki Nozawa; Adriana D. Silva; Samuel B. Ferreira; Danielle S. Soares; Keitia A. Cruz; Pedro H. Silveira; Jose S. Silva; Lucas P. Pereira; Anderson B. Ortega; Douglas R. Andrade; **Wilson D. Oliveira**; Carlos A. M. Cruz  
+- **Publicado em:** Anais da II Conferência de Tecnologia do ICET (CONNECTech 2025), p. 125
+- **Ano:** 2025
 
-## 🎯 Objetivos Atuais
+[![📄 Acessar Artigo via DOI](https://img.shields.io/badge/Acessar%20Artigo-DOI-blue?style=for-the-badge&logo=readthedocs)](http://dx.doi.org/10.5753/connect.2025.12193)
+[![📥 Baixar PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./papers/artigo-tokenizacao-amazonia.pdf)
 
-- 🚀 Aprofundar conhecimentos em **arquitetura de software** e **microservices**  
-- ⛓️ Criar soluções **Web3** e **DApps** cada vez mais robustas  
-- 🐳 Automatizar mais fluxos com **Docker** e **CI/CD**  
-- 📱 Explorar mais o desenvolvimento **Mobile com React Native**
-
----
-
-## 📫 Vamos nos conectar?
-
-💬 Me mande uma mensagem em qualquer rede social acima ou [clique aqui](mailto:woliveira1728@gmail.com).  
-Se quiser ver mais sobre meus projetos, acesse meu [**portfólio online**](https://portifolio-woliveira1728.vercel.app/).
-
----
+#### 📌 Como Citar este Trabalho
+```bibtex
+@inproceedings{oliveira2025tokenizacao,
+  author    = {Robson R. Andrade and Masaki Nozawa and Adriana D. Silva and Samuel B. Ferreira and Danielle S. Soares and Keitia A. Cruz and Pedro H. Silveira and Jose S. Silva and Lucas P. Pereira and Anderson B. Ortega and Douglas R. Andrade and Wilson D. Oliveira and Carlos A. M. Cruz},
+  title     = "{Tokenização de Árvores da Amazônia em Blockchain: Um Estudo de Caso}",
+  booktitle = {Anais da II Conferência de Tecnologia do ICET (CONNECTech 2025)},
+  year      = {2025},
+  pages     = {125},
+  doi       = {10.5753/connect.2025.12193},
+  url       = {https://doi.org/10.5753/connect.2025.12193}
+}
