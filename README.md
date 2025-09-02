@@ -84,3 +84,29 @@ Atualmente, foco no desenvolvimento de **aplicações performáticas, seguras e 
   doi       = {10.5753/connect.2025.12193},
   url       = {https://doi.org/10.5753/connect.2025.12193}
 }
+```
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woliveira1728&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woliveira1728&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
+## 🎯 Objetivos Atuais
+
+- 🚀 Aprofundar conhecimentos em **arquitetura de software** e **microservices**  
+- ⛓️ Criar soluções **Web3** e **DApps** cada vez mais robustas  
+- 🐳 Automatizar mais fluxos com **Docker** e **CI/CD**  
+- 📱 Explorar mais o desenvolvimento **Mobile com React Native**
+
+---
+
+## 📫 Vamos nos conectar?
+
+💬 Me mande uma mensagem em qualquer rede social acima ou [clique aqui](mailto:woliveira1728@gmail.com).  
+Se quiser ver mais sobre meus projetos, acesse meu [**portfólio online**](https://portifolio-woliveira1728.vercel.app/).
+
+---
